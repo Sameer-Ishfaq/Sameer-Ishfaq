@@ -1,0 +1,8 @@
+{
+
+ "name1" : "blob",
+     "age1" : 123,
+     "crazy" : true,
+     "species" : "dog",
+     "foods" : ["apples", "banana", "pear"]
+}

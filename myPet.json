@@ -1,0 +1,14 @@
+
+{
+    "name" : "Thrasher",
+     "age" : 20,
+     "allowedOutdoors" : false,
+     "favouriteFoods" : ["chips", "cucumber", "tomato", "onion"],
+     "favouriteSpots" : {
+        "livingRoom" : "sofa",
+        "bedroom" : "bed",
+        "kitchen" : "oven",
+        "garden" : "swing"
+     }
+}
+
