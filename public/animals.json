@@ -1,0 +1,66 @@
+[
+   {
+    "animal": "Animal: Badger",
+    "species": "Species: European Badger",
+    "description": "Description: Small mammals with flat wegde-shaped bodies, broad feet with long sharp claws and hair that can black, brown, gold or white. They are famously known for their black and white stripes across their face. Badgers find home in deep underground structures called burrows",
+    "diet": "Diet: Carnivore",
+    "image" : "/images/badgers1.webP"
+   },
+   {
+    "animal":"Animal: Beaver",
+    "species" : "Species: Eurasian Beaver",
+    "description": "Description: Best known for their Dam building skills, they use wood, stones and mud to build damns across shallow rivers. Beavers are a part of the rodent group which includes rats and mice. Beavers have orange teeth to help them chew throuh wood. Beavers make their home around ponds.",
+    "diet": "Diet: Herbivore",
+    "image" : "/images/beaver1.webP"
+   },
+   {
+    "animal":"Animal: Deer",
+    "species" : "Species: Fallow Deer",
+    "description": "Description: Graceful, hoofed mammals known for their slender bodies, long legs, large ears, and short tails, typically covered in brown fur that changes with seasons.",
+    "diet": "Diet: Herbivore",
+    "image" : "/images/Deer1.webP"
+   },
+   {
+    "animal": "Animal: Hedgehog",
+    "species": "Species: European Hedgehog",
+    "description": "Description: Small, nocturnal mammals known for the ~5,000-7,000 sharp, keratin spines covering their backs and sides, which protect them as they roll into a tight, spiky ball when threatened.",
+    "diet": "Diet: Omnivore",
+    "image" : "/images/hedgehog1.webP"
+   },
+   {
+    "animal": "Animal: Fox",
+    "species": "Species: Vulpes vulpes",
+    "description": "Description: Small to medium-sized, omnivorous mammal belonging to the dog family (Canidae), known for its intelligence and adaptability.",
+    "diet": "Diet: Omnivore",
+    "image" : "/images/fox.webP"
+   },
+   {
+    "animal": "Animal: Mole",
+    "species": "Species: Talpa Europea",
+    "description": "Description: A small, usually harmless, pigmented skin growth (nevus) that appears as a dark spot or bump, often appearing in childhood and varying in color, shape, and size.",
+    "diet": "Diet: Carnivore",
+    "image" : "/images/mole.webP"
+   },
+   {
+    "animal": "Animal: Newt",
+    "species": "Species: Triturus Cristatus",
+    "description": "Description: A semi-aquatic amphibian, related to salamanders, characterized by its lizard-like body, smooth to warty skin, and often vibrant orange belly with black spots.",
+    "diet": "Diet: Carnivore",
+    "image" : "/images/newt2.webP" 
+   },
+   {
+    "animal": "Animal: Owl",
+    "species": "Species: Athene Noctua",
+    "description": "Description: Nocturnal birds of prey (raptors) known for large, forward-facing eyes, flat faces with facial discs, hooked beaks, and sharp talons, allowing them to hunt effectively at night with exceptional vision and hearing, flying silently on soft feathers; they are stocky with short tails, can rotate their heads up to 270 degrees, and come in various sizes, camouflaged with mottled plumage.",
+    "diet": "Diet: Carnivore",
+    "image" : "/images/owl.webP"
+   },
+   {
+    "animal": "Animal: Weasel",
+    "species": "Species: Mustela Nivalis",
+    "description": "Description: A small, long-bodied mammal with short legs, reddish-brown fur (brown on top, creamy-white underneath), and a short tail without a black tip.",
+    "diet": "Diet: Carnivore"
+    ,
+    "image" : "/images/weasel2.webP"
+   }
+] 

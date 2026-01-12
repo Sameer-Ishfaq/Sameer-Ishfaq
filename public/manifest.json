@@ -1,0 +1,39 @@
+{
+  "name": "Jacob Wildlife Center",
+  "short_name" : "JWC",
+  "id" : "index.html",
+  "start_url": "/",
+  "description" : "Jacobs Wildlife Center will take you on a tour of how we rehabilitate our animals.",
+  "display": "standalone",
+  "theme_color": "black",
+  "background_color": "white",
+
+  "icons": [
+    {
+      "src": "/icons/favicon192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/favicon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose" : "any"
+    }
+  ],
+  "screenshots" : [
+    {
+      "src" : "/icons/screenshot1.png",
+      "sizes" : "602x294",
+      "type" : "image/png",
+      "form_factor" : "narrow"
+    },
+    {
+      "src" : "icons.screenshot2.png",
+      "sizes" : "739x350",
+      "type" : "image/png",
+      "form_factor" : "narrow"
+    }
+  ]
+}
