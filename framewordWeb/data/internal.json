@@ -1,0 +1,22 @@
+[
+{
+    "name" : "Beaver",
+    "news" : "For the first time in 400 years, beavers are breeding in Shropshire.",
+    "image" :"/images/beaver1.webP"
+},
+{
+    "name" : "Hedgehog",
+    "news" : "Very spikey hedgehog seen crossing the road at an alarmingly fast speed.",
+    "image" :"/images/hedgehog2.webP"
+},
+{
+    "name" : "Badger",
+    "news" : "Last Week we welcomed our first baby badger since we rescued a male and female 12 months ago",
+    "image" :"/images/badgers2.webP"
+},
+{
+    "name" : "Mole",
+    "news" : "We recently uncovered a half complete escape tunnle dug by the moles themselves. Who knows what would have happened if they managed to escape. We aren't ready to say goodbye to them.",
+    "image" :"/images/mole.webP"
+}
+]
