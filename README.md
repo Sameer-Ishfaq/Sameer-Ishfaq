@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sameer-Ishfaq
-- 👀 I’m interested in a lot of things inside my qualification and outside. I like reading,learning how to better myself,exercising and exploring new areas. In my course im very excited to learn how to write in different programming languages and what they are best suited to for. 
-- 🌱 I recently got my HND in Computing and IT 🎊🎊
+- 👀 I like reading,learning how to better myself,exercising and exploring new areas. In my course im very excited to learn how to write in different programming languages and what they are best suited to for. 
+- 🌱 I recently completed my BSc in Computer Science 🎊🎊
+- I built a cool prototype of an android application that uses Google ML Kit aiding in physiotherapy.
 - 💞️ I’m looking to collaborate with fellow beginners and experts so that i can learn from them. Everyone is different and we may be able to share different perspectives that we may have never thought of.
 - 📫 You can reach me by my email, sameerishfaq0@gmail.com
 
